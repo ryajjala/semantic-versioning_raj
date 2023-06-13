@@ -1,8 +1,6 @@
 ---
 branches: 
   - main
-  - origin/main
-  - remote/origin/main
 plugins:
   - '@semantic-release/npm'
   - '@semantic-release/git'
