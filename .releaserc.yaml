@@ -2,7 +2,7 @@
 preset: conventionalcommits
 tagFormat: 'v${version}'
 
-branches: main
+branches: origin/main
   
 plugins:
   - '@semantic-release/npm'
