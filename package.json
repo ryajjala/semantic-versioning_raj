@@ -5,7 +5,7 @@
   }
   "release": {
     "branches": [
-      "main"
+      "origin/main"
     ]
   }
 }
