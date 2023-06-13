@@ -1,10 +1,9 @@
+---
 preset: conventionalcommits
 tagFormat: 'v${version}'
 
-branches:
-  - +([0-9])?(.{+([0-9]),x).x}
-  - origin/main
-
+branches: main
+  
 plugins:
   - '@semantic-release/npm'
   - '@semantic-release/git'
