@@ -1,6 +1,6 @@
 ---
 branches: 
-  - main
+  - release
 plugins:
   - '@semantic-release/npm'
   - '@semantic-release/git'
