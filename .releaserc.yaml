@@ -1,6 +1,8 @@
 ---
 branches: 
   - release
+  - origin/release
+  - remotes/origin/release
 plugins:
   - '@semantic-release/npm'
   - '@semantic-release/git'
