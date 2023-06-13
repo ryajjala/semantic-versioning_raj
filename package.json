@@ -1,12 +1,11 @@
 {
-  "name": "versioning-test",
-  "version": "1.0.0",
+  "name": "versioning-test_raj",
   "dependencies": {
     "@semantic-release/github"
   }
   "release": {
     "branches": [
-      "main"
+      "origin/main"
     ]
   }
 }
